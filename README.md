@@ -1,16 +1,20 @@
-### Hi there 👋
+**About Me:** 
 
-<!--
-**xarmar/xarmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer based in Lisbon. My favorite programming languages are Python, Javascript and Java. I'm passionate about programming and how technology can be used to build a better future.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Latest Projects:**
+- RockPaperScissorsJS
+  - [Preview](https://xarmar.github.io/RockPaperScissorsJS/)
+  - [Repository](https://github.com/xarmar/RockPaperScissorsJS)
+- Google Home Clone
+  - [Preview](https://xarmar.github.io/Google-Home-Clone/)
+  - [Repository](https://github.com/xarmar/Google-Home-Clone)
+- Landing Page
+  - [Preview](https://xarmar.github.io/Landing-Page/)
+  - [Repository](https://github.com/xarmar/Landing-Page)
+- Google Home Clone
+  - [Preview](https://xarmar.github.io/Documentation-Page/)
+  - [Repository](https://github.com/xarmar/Documentation-Page)
+
