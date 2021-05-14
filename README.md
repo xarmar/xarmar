@@ -5,6 +5,9 @@ Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer bas
 
 
 **Latest Projects:**
+- Etch-A-SketchJS (ongoing)
+  - [Preview](https://xarmar.github.io/Etch-A-Sketch/)
+  - [Repository](https://github.com/xarmar//Etch-A-Sketch)
 - RockPaperScissorsJS
   - [Preview](https://xarmar.github.io/RockPaperScissorsJS/)
   - [Repository](https://github.com/xarmar/RockPaperScissorsJS)
