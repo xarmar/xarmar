@@ -5,19 +5,19 @@ Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer bas
 
 
 **Latest Projects:**
-- Etch-A-SketchJS (ongoing)
+- Etch-A-SketchJS (Languages: HTML, CSS & Javascript)
   - [Preview](https://xarmar.github.io/Etch-A-Sketch/)
   - [Repository](https://github.com/xarmar//Etch-A-Sketch)
-- RockPaperScissorsJS
+- RockPaperScissorsJS (Languages: HTML, CSS & Javascript)
   - [Preview](https://xarmar.github.io/RockPaperScissorsJS/)
   - [Repository](https://github.com/xarmar/RockPaperScissorsJS)
-- Google Home Clone
+- Google Home Clone (Languages: HTML & CSS)
   - [Preview](https://xarmar.github.io/Google-Home-Clone/)
   - [Repository](https://github.com/xarmar/Google-Home-Clone)
-- Landing Page
+- Landing Page (Languages: HTML & CSS with Bootstrap)
   - [Preview](https://xarmar.github.io/Landing-Page/)
   - [Repository](https://github.com/xarmar/Landing-Page)
-- Google Home Clone
+- Documentation Page (Languages: HTML & CSS)
   - [Preview](https://xarmar.github.io/Documentation-Page/)
   - [Repository](https://github.com/xarmar/Documentation-Page)
 
