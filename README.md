@@ -5,10 +5,10 @@ Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer bas
 
 
 **Latest Projects:**
-- Etch-A-SketchJS (HTML, CSS & Javascript)
+- Etch-A-SketchJS (Javascript, HTML & CSS)
   - [Preview](https://xarmar.github.io/Etch-A-Sketch/)
   - [Repository](https://github.com/xarmar//Etch-A-Sketch)
-- RockPaperScissorsJS (HTML, CSS & Javascript)
+- RockPaperScissorsJS (Javascript, HTML & CSS)
   - [Preview](https://xarmar.github.io/RockPaperScissorsJS/)
   - [Repository](https://github.com/xarmar/RockPaperScissorsJS)
 - Google Home Clone (HTML & CSS)
