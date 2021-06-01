@@ -5,8 +5,10 @@ Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer bas
 
 
 **Latest Projects:**
-
-- CalculatorJS (Javascript)
+- LibraryJS (Javascript, HTML & CSS) - Uses localStorage to store user's books.
+  - [Preview](https://xarmar.github.io/LibraryJS/)
+  - [Repository](https://github.com/xarmar//LibraryJS)
+- CalculatorJS (Javascript, HTML & CSS)
   - [Preview](https://xarmar.github.io/CalculatorJS/)
   - [Repository](https://github.com/xarmar//CalculatorJS)
 - Etch-A-SketchJS - Desktop Version (Javascript, HTML & CSS)
