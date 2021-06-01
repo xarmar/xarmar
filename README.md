@@ -5,7 +5,7 @@ Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer bas
 
 
 **Latest Projects:**
-- LibraryJS (Javascript, HTML & CSS)
+- LibraryJS (Javascript, HTML & CSS) - Uses localStorage.
   - [Preview](https://xarmar.github.io/LibraryJS/)
   - [Repository](https://github.com/xarmar//LibraryJS)
 - CalculatorJS (Javascript, HTML & CSS)
