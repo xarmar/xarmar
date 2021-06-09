@@ -2,9 +2,10 @@
 
 Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer based in Lisbon. My favorite programming languages are Python and Javascript. I'm passionate about programming and how technology can be used to build a better future.
 
-
-
 **Latest Projects:**
+- Tic-Tac-Toe Js (Typescript, JS, HTML & CSS) 
+  - [Preview](https://xarmar.github.io/TicTacToeJS/)
+  - [Repository](https://github.com/xarmar/TicTacToeJS)
 - LibraryJS (Javascript, HTML & CSS) - Uses localStorage.
   - [Preview](https://xarmar.github.io/LibraryJS/)
   - [Repository](https://github.com/xarmar//LibraryJS)
