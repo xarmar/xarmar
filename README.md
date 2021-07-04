@@ -1,5 +1,5 @@
 <h4> About:</h4>
-<p>Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer based in Lisbon. I'm passionate about programming and how technology can be used to build a better future. My latest projects are pinned in repositories below.</p>
+<p>Hi, I'm Xavier, a Computer Science student and aspiring Full-Stack Developer based in Lisbon. I'm passionate about programming and how technology can be used to build a better future. My latest projects are pinned in the repositories below.</p>
 
 - 🌱 I’m currently learning [**Full-Stack Javascript.**](https://www.theodinproject.com/paths/full-stack-javascript)
 
