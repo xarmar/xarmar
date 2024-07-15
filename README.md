@@ -17,9 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xarmar&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xarmar&show_icons=true&locale=en" alt="xarmar" /></p>
-
 <h4>Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/xavierpmarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xavierpmarques" height="30" width="40" /></a>
